@@ -4,7 +4,7 @@
 
 ### Overview
 
-The GoBarber backend brings together all of GoBarber modules. GoBarber-Web and GoBarber-mobile uses it to fill in data for user experience.
+The GoBarber backend brings together all of GoBarber modules. [GoBarber Web] and [GoBarber Mobile] uses it to fill in data for user experience.
 
 ## Sessions
 
@@ -365,3 +365,6 @@ A JSON object containing appointment's info.
 ### Reference
 
 Routes with **(Auth)** requires the Bearer Token to be filled with a valid JWT Token.
+
+[gobarber web]: https://github.com/MateusPevidor/gobarber-web
+[gobarber mobile]: https://github.com/MateusPevidor/gobarber-mobile
